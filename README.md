@@ -1,7 +1,7 @@
 # COMP 2404: Introduction to Software Engineering
 ## Andrew Schoenrock 
 
-A repo for all the assignments for COMP 2404 Introduction to Software Engineering Carleton University.
+A repo for all the assignments in COMP 2404, Introduction to Software Engineering Carleton University.
 
 - All assignments must compile/run on ubuntu 16.04 (xfce)
 
