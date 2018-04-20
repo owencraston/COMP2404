@@ -1,5 +1,5 @@
 # COMP 2404: Introduction to Software Engineering
-## Andrew Schoenrock 
+## Andrew Schoenrock
 
 A repo for all the assignments in COMP 2404, Introduction to Software Engineering Carleton University.
 
@@ -24,4 +24,4 @@ The Id validation is not working, -1 point
 On main menu, when input option 0, Segmentation fault error is triggered.
 
 ### Assignment 5
-
+- 30/30
